@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-09-22T05:35:54.500388749Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-09T13:14:04.566543070Z",
     "templateType": "trip_f",
     "propertyId": "fecbddde-d3dd-4087-9bd2-4c3f5589a30c",
     "homepageId": "bd88bfe5-8829-4e78-8510-49bac336f25a"
@@ -744,7 +744,7 @@
           "sections": [
             {
               "hero": {
-                "title": "Ocean View",
+                "title": "",
                 "images": [
                   {
                     "id": "f062a81f-c983-4e06-a073-8d37f3bb44d2",
@@ -1223,6 +1223,9 @@
               "enabled": true
             }
           ]
+        },
+        "landing": {
+          "sections": [ ]
         }
       },
       "popup": {
